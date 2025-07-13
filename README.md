@@ -80,5 +80,5 @@ This project is intended for academic and learning purposes. All analysis and in
 
 ## 📝 Author
 
-Maintained by [Your Name] – open to collaboration and feedback.
+Maintained by Kandukuri Jaswanth
 
